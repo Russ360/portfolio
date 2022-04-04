@@ -165,7 +165,7 @@ const Work = () => {
           </div>
         </div>
         <div>
-          <Link to="contact" smooth={true} offset={-120} duration={500}>
+          <Link to="contact" smooth={true} offset={-90} duration={500}>
             <button className="text-white shadow-xl shadow-[#00FFFF] group border-4 px-6 py-3 my-6 flex items-center font-bold hover:bg-[#00FFFF] hover:text-black">
               Go To Contact Page
               <span className="group-hover:rotate-90 duration-300">

@@ -6,7 +6,7 @@ const Contact = () => {
   return (
     <div
       name="contact"
-      className="w-full h-screen bg-gradient-to-tl from-sky-700 via-indigo-700 to-teal-900 flex justify-center items-center p-4"
+      className="w-full h-full bg-gradient-to-tl from-sky-700 via-indigo-700 to-teal-900 flex justify-center items-center p-4"
     >
       <form
         method="POST"

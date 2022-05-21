@@ -8,7 +8,7 @@ const Work = () => {
   return (
     <div
       name="work"
-      className="w-full md:h-screen text-gray-300 bg-gradient-to-tr from-purple-600 via-indigo-500 to-sky-700"
+      className="w-full md:h-full h-full text-gray-300 bg-gradient-to-tr from-purple-600 via-indigo-500 to-sky-700"
     >
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
